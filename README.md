@@ -1,4 +1,4 @@
-# Serverclient-virtual-ball-Java
+# Serverclient-Virtual-Ball-Game
 
 ## Objectives
 
