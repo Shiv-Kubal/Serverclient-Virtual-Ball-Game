@@ -2,7 +2,7 @@
 
 ## Features
 
-Established client-server connection in Java where server responds to client request. Programmed a game where players can pass the ball to each other and server stores the up-to-date information.
+Established socket-based client-server connection in Java where server responds to client request. Programmed a game where players can pass the ball to each other and server stores the up-to-date information.
 
 - Client establishes a connection with the server
 - Client is assigned a unique ID when joining the game
